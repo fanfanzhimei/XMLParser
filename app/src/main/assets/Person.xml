@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persons>
+    <person id="23">
+        <name>沈鱼燕</name>
+        <age>23</age>
+    </person>
+
+    <person id="30">
+        <name>毕羞花</name>
+        <age>25</age>
+    </person>
+</persons>
